@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/MasoWrite.dir/link.d CMakeFiles/MasoWrite.dir/src/main.cpp.o -o MasoWrite  -lcurses -lform

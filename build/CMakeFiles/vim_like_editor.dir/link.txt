@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/vim_like_editor.dir/link.d CMakeFiles/vim_like_editor.dir/src/main.cpp.o -o vim_like_editor  -lcurses -lform
